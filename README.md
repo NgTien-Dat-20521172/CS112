@@ -4,7 +4,7 @@ Chủ đề seminar: Phân tích độ phức tạp thuật toán không đệ q
 
 Bài báo cáo Nhóm 14
 
-Link slide buổi thảo luận: [slide](https://github.com/NgTien-Dat-20521172/CS112/blob/main/Ph%C3%A2n-t%C3%ADch-thu%E1%BA%ADt-to%C3%A1n-kh%C3%B4ng-%C4%91%E1%BB%87-quy.pptx)
+Link slide buổi thảo luận: [slide](https://uithcm-my.sharepoint.com/:p:/g/personal/20521172_ms_uit_edu_vn/ESWsxDundIJFjAXlVn4NousBJj1aZiCbf0LgFecRK3Wgpw?e=xrwkIp)
 
 Link buổi thảo luận [hoạt động](https://docs.google.com/spreadsheets/d/1IZO_lg0nGGMb_3zQnVSsznQ5776ZGzpwtyMSsfjhDkQ/edit#gid=883120267)
 
