@@ -4,7 +4,7 @@ Chủ đề seminar: Phân tích độ phức tạp thuật toán không đệ q
 
 Bài báo cáo Nhóm 14
 
-Link slide buổi thảo luận: [slide](https://uithcm-my.sharepoint.com/:p:/g/personal/20521172_ms_uit_edu_vn/ESWsxDundIJFjAXlVn4NousBJj1aZiCbf0LgFecRK3Wgpw?e=xrwkIp)
+Link slide buổi thảo luận: [slide](https://uithcm-my.sharepoint.com/:p:/g/personal/20521172_ms_uit_edu_vn/ESWsxDundIJFjAXlVn4NousBJj1aZiCbf0LgFecRK3Wgpw?e=xrwkIp) [bổ sung](https://uithcm-my.sharepoint.com/:p:/g/personal/20521172_ms_uit_edu_vn/Eae9Q0MlAH9AsdWNPeEjsJwBnMmDpB7IYp6yAPzcGM_5Nw?e=kAvSil)
 
 Link buổi thảo luận [hoạt động](https://docs.google.com/spreadsheets/d/1IZO_lg0nGGMb_3zQnVSsznQ5776ZGzpwtyMSsfjhDkQ/edit#gid=883120267)
 
